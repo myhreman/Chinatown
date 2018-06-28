@@ -21,7 +21,7 @@ Then
 
 # For CSharp
 Hent filen:
-github.com/myhreman/Chinatown/blob/master/BDD.cs
+https://github.com/myhreman/Chinatown/blob/master/BDD.cs
 Kjør:
 Install-Package fluentassertions 
 
