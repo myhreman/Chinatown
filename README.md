@@ -3,11 +3,14 @@
 2) Make the test pass
 3) Refactor
 
-## Method naming
+## Test Method 
+### Naming 
 MethodUnderTest_Scenario_ExepctedResult
 ### Alternative naming
 Make a class for each method under test, e.g. CreatePerson.cs
 Name each test with just Scenario_ExpectedResult
+### Other
+Test only one thing, do only 1 assert (as a rule of thumb)
 
 ## Method setup - beginner
 Arrange
