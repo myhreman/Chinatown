@@ -29,4 +29,4 @@ Kjør:
 Install-Package fluentassertions 
 
 # For JS
-....etter avtale med Robin kommer dette senere... eller spark meg i leggen om det ikke gjør det, ugh
+....bruk f.eks. Jasmine eller Mocha + Chai
